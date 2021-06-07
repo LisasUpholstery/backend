@@ -1,4 +1,4 @@
-# backend
+# Backend
 node express postgress s3
 
 ## Resources 
